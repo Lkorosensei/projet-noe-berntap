@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Bernard-Typo2';
+    src: url('../font/Bernard-Typo2 (1).otf');
+}
+
+header {
+    background-color: #EE466E;
+}
+
+h1 {
+    font-family: 'Bernard-Typo2', sans-serif;
+    color: white;
+}
+
+#img-25 {
+    height: 25%;
+}
+
+main + footer {
+    background-color: white;
+}
